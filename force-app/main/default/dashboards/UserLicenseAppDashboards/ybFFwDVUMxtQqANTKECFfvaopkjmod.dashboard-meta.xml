@@ -602,7 +602,6 @@
     <dashboardType>MyTeamUser</dashboardType>
     <description>An app that you can use to view your licenses, run reports and dashboards.</description>
     <isGridLayout>true</isGridLayout>
-    <runningUser>adoption@eventmonitoring.demo</runningUser>
     <textColor>#000000</textColor>
     <title>User License Analytics Dashboard</title>
     <titleColor>#000000</titleColor>
