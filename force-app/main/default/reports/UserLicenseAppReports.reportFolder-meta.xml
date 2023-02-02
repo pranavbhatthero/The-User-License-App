@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<DashboardFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
         <sharedTo>allInternalUsers</sharedTo>
         <sharedToType>Organization</sharedToType>
     </folderShares>
-    <name>User License App Dashboards</name>
-</DashboardFolder>
+    <name>User License App Reports</name>
+</ReportFolder>

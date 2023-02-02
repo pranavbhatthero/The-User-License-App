@@ -27,7 +27,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Internal_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Internal_users_only</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
@@ -52,7 +52,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Sites_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Sites_users_only</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
@@ -77,7 +77,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Chatter_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Chatter_users_only</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
@@ -102,7 +102,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Guest_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Guest_users_only</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
@@ -137,7 +137,7 @@
                 <header># of Internal Licenses (by license)</header>
                 <legendPosition>Right</legendPosition>
                 <maxValuesDisplayed>6</maxValuesDisplayed>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Internal_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Internal_users_only</report>
                 <showPercentage>true</showPercentage>
                 <showTotal>true</showTotal>
                 <showValues>true</showValues>
@@ -192,7 +192,7 @@
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Internal License Summary (Active &amp; Remaining)</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Internal_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Internal_users_only</report>
             </dashboardComponent>
             <rowIndex>4</rowIndex>
             <rowSpan>8</rowSpan>
@@ -225,7 +225,7 @@
                 </flexComponentProperties>
                 <groupingSortProperties/>
                 <header>Internal License &amp; User List</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Internal_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Internal_users_only</report>
             </dashboardComponent>
             <rowIndex>4</rowIndex>
             <rowSpan>8</rowSpan>
@@ -259,7 +259,7 @@
                 <header># of Site Licenses (by license)</header>
                 <legendPosition>Right</legendPosition>
                 <maxValuesDisplayed>6</maxValuesDisplayed>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Sites_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Sites_users_only</report>
                 <showPercentage>true</showPercentage>
                 <showTotal>true</showTotal>
                 <showValues>true</showValues>
@@ -314,7 +314,7 @@
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Site License Summary (Active &amp; Remaining)</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Sites_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Sites_users_only</report>
             </dashboardComponent>
             <rowIndex>12</rowIndex>
             <rowSpan>8</rowSpan>
@@ -347,7 +347,7 @@
                 </flexComponentProperties>
                 <groupingSortProperties/>
                 <header>Site License &amp; User List</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Sites_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Sites_users_only</report>
             </dashboardComponent>
             <rowIndex>12</rowIndex>
             <rowSpan>8</rowSpan>
@@ -381,7 +381,7 @@
                 <header># of Chatter Licenses (by license)</header>
                 <legendPosition>Right</legendPosition>
                 <maxValuesDisplayed>6</maxValuesDisplayed>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Chatter_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Chatter_users_only</report>
                 <showPercentage>true</showPercentage>
                 <showTotal>true</showTotal>
                 <showValues>true</showValues>
@@ -436,7 +436,7 @@
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Chatter License Summary (Active &amp; Remaining)</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Chatter_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Chatter_users_only</report>
             </dashboardComponent>
             <rowIndex>20</rowIndex>
             <rowSpan>8</rowSpan>
@@ -469,7 +469,7 @@
                 </flexComponentProperties>
                 <groupingSortProperties/>
                 <header>Chatter License &amp; User List</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Chatter_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Chatter_users_only</report>
             </dashboardComponent>
             <rowIndex>20</rowIndex>
             <rowSpan>8</rowSpan>
@@ -503,7 +503,7 @@
                 <header># of Guest Licenses (by license)</header>
                 <legendPosition>Right</legendPosition>
                 <maxValuesDisplayed>6</maxValuesDisplayed>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Guest_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Guest_users_only</report>
                 <showPercentage>true</showPercentage>
                 <showTotal>true</showTotal>
                 <showValues>true</showValues>
@@ -558,7 +558,7 @@
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Guest License Summary (Active &amp; Remaining)</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Guest_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Guest_users_only</report>
             </dashboardComponent>
             <rowIndex>28</rowIndex>
             <rowSpan>8</rowSpan>
@@ -591,7 +591,7 @@
                 </flexComponentProperties>
                 <groupingSortProperties/>
                 <header>Guest License &amp; User List</header>
-                <report>unfiled$public/User_License_Usage_Report_ULA_Guest_users_only</report>
+                <report>UserLicenseAppReports/User_License_Usage_Report_ULA_Guest_users_only</report>
             </dashboardComponent>
             <rowIndex>28</rowIndex>
             <rowSpan>8</rowSpan>
