@@ -35,14 +35,14 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>roleWithOEMLicense</componentName>
-                <identifier>c_roleWithOEMLicense</identifier>
+                <componentName>profilesWithOEMLicense</componentName>
+                <identifier>c_profilesWithOEMLicense</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentName>profilesWithOEMLicense</componentName>
-                <identifier>c_profilesWithOEMLicense</identifier>
+                <componentName>roleWithOEMLicense</componentName>
+                <identifier>c_roleWithOEMLicense</identifier>
             </componentInstance>
         </itemInstances>
         <name>bottomRight</name>
