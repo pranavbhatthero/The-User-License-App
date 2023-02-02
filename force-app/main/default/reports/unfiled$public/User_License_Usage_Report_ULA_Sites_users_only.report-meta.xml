@@ -4,13 +4,13 @@
         <calculatedFormula>RowCount</calculatedFormula>
         <datatype>number</datatype>
         <developerName>FORMULA1</developerName>
-        <isActive>true</isActive>
+        <isActive>false</isActive>
         <isCrossBlock>false</isCrossBlock>
         <masterLabel>Active Users</masterLabel>
         <scale>0</scale>
     </aggregates>
     <aggregates>
-        <calculatedFormula>User.Profile.UserLicense.TotalLicenses:SUM - RowCount</calculatedFormula>
+        <calculatedFormula>User.Profile.UserLicense.TotalLicenses:SUM - User.IsActive:SUM</calculatedFormula>
         <datatype>number</datatype>
         <developerName>FORMULA2</developerName>
         <isActive>true</isActive>
@@ -19,29 +19,30 @@
         <scale>0</scale>
     </aggregates>
     <columns>
-        <field>User$Profile.UserLicense.Status</field>
-    </columns>
-    <columns>
         <aggregateTypes>Sum</aggregateTypes>
         <field>User$Profile.UserLicense.TotalLicenses</field>
     </columns>
     <columns>
-        <field>User$Profile.UserLicense.UsageType</field>
+        <aggregateTypes>Sum</aggregateTypes>
+        <field>User$IsActive</field>
     </columns>
     <columns>
-        <field>User$Profile.UserLicense.Id</field>
+        <field>User$Profile.UserLicense.Status</field>
     </columns>
     <columns>
-        <field>User$Profile.UserLicense.ExpirationDate</field>
+        <field>User$Name</field>
     </columns>
-    <description>User License Usage Report for User License App analytics for Internal Employees only excluding chatter &amp; experience cloud users</description>
+    <columns>
+        <field>User$Username</field>
+    </columns>
+    <description>User License Usage Report for User License App analytics for experience cloud users only</description>
     <filter>
         <criteriaItems>
             <column>User$Profile.UserLicense.Name</column>
             <columnToColumn>false</columnToColumn>
             <isUnlocked>true</isUnlocked>
-            <operator>notContain</operator>
-            <value>Chatter,Community,Portal,Guest</value>
+            <operator>contains</operator>
+            <value>Community,Portal</value>
         </criteriaItems>
     </filter>
     <format>Summary</format>
@@ -50,7 +51,7 @@
         <field>User$Profile.UserLicense.Name</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>User License Usage Report</name>
+    <name>User License Usage Report Sites only</name>
     <params>
         <name>co</name>
         <value>0</value>

@@ -23,6 +23,7 @@
     <tabs>standard-home</tabs>
     <tabs>All_Packages_view</tabs>
     <tabs>All_License_Summary</tabs>
+    <tabs>User_License_Analytics</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>User_License_App_UtilityBar</utilityBar>
 </CustomApplication>
