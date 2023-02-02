@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>User_License_App</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>User License App Permission</label>
+    <tabSettings>
+        <tab>All_License_Summary</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>All_Packages_view</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>User_License_Analytics</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>
