@@ -3,8 +3,6 @@
 -   [Installation instructions](#installation-instructions)
     -   [Installing ULA using Salesforce DX](#installing-dreamhouse-using-salesforce-dx)
     -   [Installing ULA using an unlocked package](#installing-dreamhouse-using-an-unlocked-package)
--   [Code highlights](#code-highlights)
--   [Additional resources](#additional-resources)
 
 ## Installation Instructions
 
