@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/mydevhubapp-icon.png" width="256" alt="User License App Logo" />
   <h1>
-    🅜🅨 &nbsp;&nbsp; 🅓🅔🅥🅗🅤🅑 &nbsp;&nbsp; 🅐🅟🅟🅛🅘🅒🅐🅣🅘🅞🅝
+    🅤🅔 &nbsp;&nbsp; 🅛🅘🅒🅔🅝🅐🅔 &nbsp;&nbsp;  🅐🅟🅟
   </h1>
   <p>
     <b>User License App</b> The User License App focuses on OEM Managed Packages & non-OEM Licenses. Easy to use UI to help you explore, analyze Licenses & associated Roles or Profiles in your Organization.
