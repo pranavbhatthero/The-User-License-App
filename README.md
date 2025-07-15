@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://appexchange.salesforce.com/image_host/e0ebcae5-543d-4614-806c-23bcc9b71214.png" width="256" alt="User License App Logo" />
   <h1>
-    🅤🅔U S E R &nbsp;&nbsp; 🅛🅘🅒🅔🅝🅐🅔 &nbsp;&nbsp;  🅐🅟🅟
+    U S E R &nbsp;&nbsp; L I C E N S E &nbsp;&nbsp;  A P P
   </h1>
   <p>
     <b>User License App</b> focuses on OEM Managed Packages & non-OEM Licenses. Easy to use UI to help you explore, analyze Licenses & associated Roles or Profiles in your Organization.
