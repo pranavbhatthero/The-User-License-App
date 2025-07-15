@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://appexchange.salesforce.com/image_host/e0ebcae5-543d-4614-806c-23bcc9b71214.png]" width="256" alt="User License App Logo" />
+  <img src="https://appexchange.salesforce.com/image_host/e0ebcae5-543d-4614-806c-23bcc9b71214.png" width="256" alt="User License App Logo" />
   <h1>
     🅤🅔 &nbsp;&nbsp; 🅛🅘🅒🅔🅝🅐🅔 &nbsp;&nbsp;  🅐🅟🅟
   </h1>
