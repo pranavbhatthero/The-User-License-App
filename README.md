@@ -7,16 +7,16 @@
     <b>User License App</b> focuses on OEM Managed Packages & non-OEM Licenses. Easy to use UI to help you explore, analyze Licenses & associated Roles or Profiles in your Organization.
   </p>
   <a href="https://github.com/pranavbhatthero/The-User-License-App/network/members">
-    <img alt="forks on github" src="https://img.shields.io/github/forks/VinceFINET/MyDevHubApplication?style=flat-square&logoColor=blue">
+    <img alt="forks on github" src="https://img.shields.io/github/forks/pranavbhatthero/The-User-License-App?style=flat-square&logoColor=blue">
   </a>
   <a href="https://github.com/pranavbhatthero/The-User-License-App/stargazers">
-    <img alt="stars on github" src="https://img.shields.io/github/stars/VinceFINET/MyDevHubApplication?style=flat-square">
+    <img alt="stars on github" src="https://img.shields.io/github/stars/pranavbhatthero/The-User-License-App?style=flat-square">
   </a>
   <a href="https://github.com/pranavbhatthero/The-User-License-App/watchers">
-    <img alt="watchers" src="https://img.shields.io/github/watchers/VinceFINET/MyDevHubApplication?style=flat-square">
+    <img alt="watchers" src="https://img.shields.io/github/watchers/pranavbhatthero/The-User-License-App?style=flat-square">
   </a>
   <a href="https://github.com/pranavbhatthero/The-User-License-App/issues">
-    <img alt="issues" src="https://img.shields.io/github/issues-raw/VinceFINET/MyDevHubApplication?style=flat-square">
+    <img alt="issues" src="https://img.shields.io/github/issues-raw/pranavbhatthero/The-User-License-App?style=flat-square">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img alt="licenses" src="https://img.shields.io/badge/License-MIT-yellow.svg">
@@ -42,22 +42,16 @@ There are two ways to install:
 - 3 Custom Tab
 - 12 Lightning Components
 - 1 Apex Class
-- 1 Permission Set
+- 1 Permission Set: User License App
 - 1 Custom App: User License App
 
 ## The Demo
 
 https://www.youtube.com/watch?v=ryXjFI1PQVw&feature=youtu.be
 
-## Deploy to Salesforce (production and developer edition)
-
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/VinceFINET/MyDevHubApplication?ref=master">
-  <img alt="Deploy to Salesforce (production)" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-
 ## Give Permission to users 
 
-There is a "User License App" permission that can be granted to users that gives access to all components in this Package Apps, Tabs, LWC's, Reports/Dashboards. 
+There is a "User License App" permission that can be granted to users that gives access to all components in this Package Apps, Tabs, Lightning Components, Reports/Dashboards. 
 
 ## Issues or new ideas?
 
