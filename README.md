@@ -6,16 +6,16 @@
   <p>
     <b>User License App</b> The User License App focuses on OEM Managed Packages & non-OEM Licenses. Easy to use UI to help you explore, analyze Licenses & associated Roles or Profiles in your Organization.
   </p>
-  <a href="https://github.com/VinceFINET/MyDevHubApplication/network/members">
+  <a href="https://github.com/pranavbhatthero/The-User-License-App/network/members">
     <img alt="forks on github" src="https://img.shields.io/github/forks/VinceFINET/MyDevHubApplication?style=flat-square&logoColor=blue">
   </a>
-  <a href="https://github.com/VinceFINET/MyDevHubApplication/stargazers">
+  <a href="https://github.com/pranavbhatthero/The-User-License-App/stargazers">
     <img alt="stars on github" src="https://img.shields.io/github/stars/VinceFINET/MyDevHubApplication?style=flat-square">
   </a>
-  <a href="https://github.com/VinceFINET/MyDevHubApplication/watchers">
+  <a href="https://github.com/pranavbhatthero/The-User-License-App/watchers">
     <img alt="watchers" src="https://img.shields.io/github/watchers/VinceFINET/MyDevHubApplication?style=flat-square">
   </a>
-  <a href="https://github.com/VinceFINET/MyDevHubApplication/issues">
+  <a href="https://github.com/pranavbhatthero/The-User-License-App/issues">
     <img alt="issues" src="https://img.shields.io/github/issues-raw/VinceFINET/MyDevHubApplication?style=flat-square">
   </a>
   <a href="https://opensource.org/licenses/MIT">
