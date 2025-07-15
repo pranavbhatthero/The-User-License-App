@@ -39,11 +39,11 @@ There are two ways to install:
 
 ## What's inside?
 
-- 2 Custom Tab: MySubscribers and MyCustomers
-- 2 Visualforce Page: MySubscribers and MyCustomers
-- 2 Apex Controller Class: MySubscribersController and MyCustomersController
-- 1 Permission Set: access to page/tab/class for assigned user
-- 1 Custom App: My DevHub Application
+- 3 Custom Tab
+- 12 Lightning Components
+- 1 Apex Class
+- 1 Permission Set
+- 1 Custom App: User License App
 
 ## The Demo
 
@@ -61,7 +61,7 @@ There is a "User License App" permission that can be granted to users that gives
 
 ## Issues or new ideas?
 
-You can log any issues and new ideas in our tracker: https://github.com/pranavbhatthero/The-User-License-App/issues or email pbhatt@salesforce.com
+You can log any issues and new ideas in our tracker: https://github.com/pranavbhatthero/The-User-License-App/issues
 
 ## License
 
