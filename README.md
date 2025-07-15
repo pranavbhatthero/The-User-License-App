@@ -59,4 +59,4 @@ You can log any issues and new ideas in our tracker: https://github.com/pranavbh
 
 ## License
 
-<b>User License App</b> is available under the [AGPL-3.0 license](LICENSE.md)
+<b>User License App</b> is available under the [AGPL-3.0 license](https://github.com/pranavbhatthero/The-User-License-App/blob/main/LICENSE)
