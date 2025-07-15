@@ -11,3 +11,6 @@ There are two ways to install:
 -   Using Salesforce DX
 -   Using an unlocked package
 
+## Give Permission to users 
+
+There is a "User License App" permission that can be granted to users that gives access to all components in this Package Apps, Tabs, LWC's, Reports/Dashboards. 
