@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="docs/mydevhubapp-icon.png" width="256" alt="My DevHub Application Logo" />
+  <img src="docs/mydevhubapp-icon.png" width="256" alt="User License App Logo" />
   <h1>
     🅜🅨 &nbsp;&nbsp; 🅓🅔🅥🅗🅤🅑 &nbsp;&nbsp; 🅐🅟🅟🅛🅘🅒🅐🅣🅘🅞🅝
   </h1>
   <p>
-    <b>My DevHub Application</b> allows you to list the subscribers of your package(s) from your dev hub environment with two views: package-focused and customer-focused.
+    <b>User License App</b> The User License App focuses on OEM Managed Packages & non-OEM Licenses. Easy to use UI to help you explore, analyze Licenses & associated Roles or Profiles in your Organization.
   </p>
   <a href="https://github.com/VinceFINET/MyDevHubApplication/network/members">
     <img alt="forks on github" src="https://img.shields.io/github/forks/VinceFINET/MyDevHubApplication?style=flat-square&logoColor=blue">
@@ -47,9 +47,7 @@ There are two ways to install:
 
 ## The Demo
 
-A page called "MySubscribers", to be installed in your dev hub, to list the package/version that your subscribers are using.
-![Screenshot](/docs/MySubs.png)[https://www.youtube.com/watch?v=ryXjFI1PQVw&feature=youtu.be]
-
+https://www.youtube.com/watch?v=ryXjFI1PQVw&feature=youtu.be
 
 ## Deploy to Salesforce (production and developer edition)
 
