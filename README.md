@@ -44,7 +44,7 @@
 
 ## The Demo
 
-[![User License App Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=ryXjFI1PQVw&feature=youtu.be)
+[![User License App Demo](https://appexchange.salesforce.com/image_host/475f449f-e09f-4817-9356-1bab43becdce.png)](https://www.youtube.com/watch?v=ryXjFI1PQVw&feature=youtu.be)
 
 
 ## Give Permission to users 
