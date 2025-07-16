@@ -29,9 +29,10 @@
   <img alt="Deploy to Salesforce Org" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-## Deploy using Salesforce SFDX
+## Deploy using VSCode or SFDX
 
-
+- [Using VsCode](https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce/use-vscode-for-salesforce)
+- [Using CLI/SFDX commands](https://trailhead.salesforce.com/content/learn/modules/sfdx_app_dev/sfdx_app_dev_setup_dx)
 
 ## What's inside?
 
