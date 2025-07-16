@@ -23,18 +23,14 @@
   </a>
 </div>
 
-## Deploy to Salesforce (production and developer edition)
+## Deploy to Salesforce through the Appexchange 
 
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/VinceFINET/MyDevHubApplication?ref=master">
-  <img alt="Deploy to Salesforce (production)" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+<a href="https://appexchange.salesforce.com/appxListingDetail?listingId=c1cff1ac-92b6-4b34-a605-5f1ce21e2a75&tab=d&other_source=AppExchange+Browse&cta=gin">
+  <img alt="Deploy to Salesforce Org" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-## Installation Instructions
+## Deploy using Salesforce SFDX
 
-There are two ways to install:
-
--   Using Salesforce DX
--   Using an unlocked package
 
 
 ## What's inside?
