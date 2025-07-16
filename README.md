@@ -18,8 +18,8 @@
   <a href="https://github.com/pranavbhatthero/The-User-License-App/issues">
     <img alt="issues" src="https://img.shields.io/github/issues-raw/pranavbhatthero/The-User-License-App?style=flat-square">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="licenses" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img alt="licenses" src="https://img.shields.io/badge/License-AGPL_v3-blue.svg">
   </a>
 </div>
 
